@@ -1,0 +1,5 @@
+*.nc -diff
+*.png -diff
+*.pdf -diff
+*.tif -diff
+*.tiff -diff

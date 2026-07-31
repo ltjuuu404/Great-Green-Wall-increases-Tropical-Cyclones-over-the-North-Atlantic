@@ -1,0 +1,19 @@
+figure,folder,script,input_netcdf,description
+Figure 1,figure1,figure1.py,figure1_plot_data.nc,Experimental design and prescribed vegetation modification
+Figure 2,figure2,figure2.py,precip_ctrl.nc;precip_diff.nc;slp_ctrl.nc;slp_diff.nc;sst_ctrl.nc;sst_diff.nc,SST sea-level pressure circulation and precipitation
+Figure 3,figure3,figure3.py,row1_850_circulation.nc;row2_500_omega.nc;row3_700_rh.nc;row4_200_shear.nc,Large-scale atmospheric environmental responses
+Figure 4,figure4,figure4.py,figure6.nc,Meridional atmospheric circulation cross-section
+Figure 5,figure5,figure5.py,albedo_ctl.nc;albedo_diff.nc;fsns_diff.nc;latent_heat_diff.nc;sensible_heat_diff.nc,Surface albedo and surface-energy flux responses
+Figure 6,figure6,figure6.py,JAS_MSE_smoothed_data.nc,Moist-static-energy cross-section
+Figure 7,figure7,figure7.py,wind_1000_stats.nc;lhflx_stats.nc;cldtot_stats.nc,Surface-wind latent-heat-flux and cloud responses
+Figure 8,figure8,figure8.py,figure2_data.nc,Observed and simulated tropical-cyclone genesis frequency
+Figure 9,figure9,figure9.py,figure3_data_ocean_masked_new.nc,Tropical-cyclone genesis indices and factor decomposition
+Figure 10,figure10,figure10.py,figure7_data.nc,Tropical-cyclone track-density response
+Figure 11,figure11,figure11.py,figure8_data.nc,Pressure-weighted tropical-cyclone steering flow
+Figure 12,figure12,figure12.py,figure12_wind_data.nc,850- 500- and 200-hPa circulation responses
+Figure S1,figureS1,figureS1.py,figureS1_data.nc,GPCP precipitation validation
+Figure S2,figureS2,figureS2.py,figureS2_data.nc,Coupled SST current advection and Sahel-rainfall mechanism
+Figure S3,figureS3,figureS3.py,figureS3_data.nc,Prescribed-SST versus coupled precipitation and circulation responses
+Figure S4,figureS4,figureS4.py,figureS4_data.nc,African easterly-wave seed response
+Figure S5,figureS5,figureS5.py,figureS5_data.nc,Dust radiation surface-temperature and TC-genesis responses
+Figure S6,figureS6,figureS6.py,figureS6_data.nc,Tropical-cyclone intensity validation

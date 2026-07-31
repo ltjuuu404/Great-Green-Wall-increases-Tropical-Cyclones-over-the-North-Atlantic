@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+# Figure outputs generated when the plotting scripts are run.
+/figure*/figure*.png
+/figure*/figure*.pdf
+/figure*/figure*.svg
+/figure*/figure*.tif
+/figure*/figure*.tiff
+
