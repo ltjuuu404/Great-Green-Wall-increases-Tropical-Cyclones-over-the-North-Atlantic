@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+outputs/
+图件/
+plot_qa*.json
+text_layout_qa.json
+plot_data_*.nc
