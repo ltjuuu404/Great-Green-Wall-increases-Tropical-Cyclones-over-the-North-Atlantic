@@ -1,0 +1,31 @@
+{
+  "season_months": [7, 8, 9],
+  "month_basis": "source_filename",
+  "analysis_years": 30,
+  "map_extent": [-100.0, 45.0, -10.0, 40.0],
+  "extraction_halo_degrees": 10.0,
+  "mdr_box": [-70.0, -17.5, 10.0, 20.0],
+  "smoothing_sigma_grid_cells": 0.75,
+  "cases": {
+    "coupled_ctl": {
+      "raw_dir": "E:/B2000_f19_g17_Out/atm/hist",
+      "raw_glob": "B2000_f19_g17_Out.cam.h0.*.nc",
+      "pressure_dir": "E:/CESM_result/GGW_coupling_interpolation/case_control/atm_add_RH"
+    },
+    "coupled_ggw": {
+      "raw_dir": "G:/B2000_f19_g17_Veg/atm/hist",
+      "raw_glob": "B2000_f19_g17_Veg.cam.h0.*.nc",
+      "pressure_dir": "E:/CESM_result/GGW_coupling_interpolation/case_surface/atm_add_RH"
+    },
+    "noncoupled_ctl": {
+      "raw_dir": "E:/CESM_result/GGW30year/case/atm/hist",
+      "raw_glob": "case.cam.h0.*.nc",
+      "pressure_dir": "E:/CESM_result/GGW_interpolation/case/atm"
+    },
+    "noncoupled_ggw": {
+      "raw_dir": "E:/CESM_result/GGW30year/case_surface/atm/hist",
+      "raw_glob": "case_surface.cam.h0.*.nc",
+      "pressure_dir": "E:/CESM_result/GGW_interpolation/case_surface/atm"
+    }
+  }
+}

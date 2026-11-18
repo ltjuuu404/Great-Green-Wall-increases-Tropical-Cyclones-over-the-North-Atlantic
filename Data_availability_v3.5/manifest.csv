@@ -1,0 +1,20 @@
+figure,script,archived_image,inputs_relative_to_script,version_note
+Figure 1,figure1/figure1.py,figure1/outputs/F01.jpg,F01_vegetation_and_isohyets.nc,
+Figure 2,figure2/figure2.py,figure2/outputs/F02.jpg,F02_tc_genesis_validation.nc,
+Figure 3,figure3/figure3.py,figure3/outputs/F03.jpg,F03_moist_static_energy.nc,
+Figure 4,figure4/figure4.py,figure4/outputs/F04.png,F04_ocean_atmosphere_response.nc,Six-panel archived version with the original colour scales
+Figure 5,figure5/figure5.py,figure5/outputs/F05.png,F05_vorticity_and_wind_850hPa.nc | F05_omega_and_wind_500hPa.nc | F05_relative_humidity_600hPa.nc | F05_wind_200hPa_and_vertical_shear.nc,"Archived 600 hPa relative-humidity figure, with the four matching input grids"
+Figure 6,figure6/figure6.py,figure6/outputs/F06.jpg,F06_jas_tc_genesis_significance.nc,Significance hatching in panel (c)
+Figure 7,figure7/figure7.py,figure7/outputs/F07.jpg,F07_gpi_and_environmental_contributions.nc,
+Figure 8,figure8/figure8.py,figure8/outputs/F08.jpg,F08_gpi_experiment_inputs.nc | F08_coupled_gpi_reference.nc,Panel (e) is labelled DGPI Diff (c-a) and panel (f) ENGPI Diff (d-b)
+Figure 9,figure9/figure9.py,figure9/outputs/F09.png,F09_jas_tc_track_density.nc,Single 5-degree track-density difference map with three boxes
+Figure 10,figure10/figure10.py,figure10/outputs/F10.png,F10_deep_layer_steering_flow.nc,Two-panel steering flow
+Figure 11,figure11/figure11.py,figure11/outputs/F11.png,F11_pressure_level_winds.nc,Three pressure-level wind response panels
+Figure S1,figureS1/figureS1.py,figureS1/outputs/FS01.jpg,FS01_gpcp_ctl_precipitation.nc,
+Figure S2,figureS2/figureS2.py,figureS2/outputs/FS02.jpg,FS02_tc_track_density_validation.nc,
+Figure S3,figureS3/figureS3.py,figureS3/outputs/FS03.jpg,FS03_ctl_surface_albedo.nc | FS03_surface_albedo_response.nc | FS03_net_surface_shortwave_response.nc | FS03_surface_latent_heat_response.nc | FS03_surface_sensible_heat_response.nc,
+Figure S4,figureS4/figureS4.py,figureS4/outputs/FS04.jpg,FS04_precipitation_and_circulation_response.nc,Artwork labels the low-level winds at 850 hPa
+Figure S5,figureS5/figureS5.py,figureS5/outputs/FS05.jpg,FS05_vorticity_omega_humidity_response.nc | FS05_plot_config.json,
+Figure S6,figureS6/figureS6.py,figureS6/outputs/FS06.png,FS06_meridional_circulation.nc,
+Figure S7,figureS7/figureS7.py,figureS7/outputs/FS07.jpg,FS07_aew_frequency_density_intensity.nc | FS07_aew_statistics.csv,Panel (b) shows basin-wide AEW frequency
+Figure S8,figureS8/figureS8.py,figureS8/outputs/FS08.png,FS08_dust_aod_response.nc,AODDUST response present in the 1117 supplement
