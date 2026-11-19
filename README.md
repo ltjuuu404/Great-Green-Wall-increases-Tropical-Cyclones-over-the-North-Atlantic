@@ -2,7 +2,7 @@
 
 This repository provides processed figure-ready data and Python plotting scripts for the manuscript and its Supplementary Information.
 
-The current figure source-data package is [`Data_availability_v3.5`](Data_availability_v3.5/README.md), covering Figures 1–11 and S1–S8 in the 17 November 2026 manuscript and supplement. The [figure manifest](Data_availability_v3.5/manifest.csv) lists the processed inputs, plotting script and archived image for each figure.
+The current figure source-data package is [`Data_availability_v3.5`](Data_availability_v3.5/README.md), covering Figures 1–11 and S1–S8 in the 17 November 2026 manuscript and supplement. The [figure manifest](Data_availability_v3.5/manifest.csv) lists the processed inputs and plotting script for each figure.
 
 The archived [`Data_availability_v3.2`](Data_availability_v3.2/README.md) package follows the v3.2 sheet of the author-supplied figure mapping. It includes 19 figure entries, their processed input data, standalone plotting scripts, offline basemaps and SHA-256 checksums. See its README for the source-selection and figure-version notes.
 
